@@ -1,0 +1,16 @@
+{
+  "name": "imagenotification",
+  "version": "1.0.0",
+  "description": "For In App Image Notfication in ionic Apps.",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "Image",
+    "Notification",
+    "Ionic"
+  ],
+  "author": "Prufer Logic Technologies",
+  "license": "ISC"
+}
